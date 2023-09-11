@@ -17,6 +17,7 @@ alias ga='git add .'
 alias gc='git commit -m'
 alias gu='git pull'
 alias gp='git push'
+alias gt='git clone https://github.com/Fuggel/React-Template.git'
 
 
 # ---------------------------

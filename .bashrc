@@ -31,6 +31,14 @@ alias nb='npm run build'
 
 
 # ---------------------------
+# pip Command Aliases
+# ---------------------------
+
+alias pi='pip install'
+alias pu='pip uninstall'
+
+
+# ---------------------------
 # React Command Aliases
 # ---------------------------
 
